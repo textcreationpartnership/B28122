@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pillory: or a dialogue betwixt Roger L'Estrange and Nat. Thompson</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28122</idno><idno type="EEBO-CITATION">99825687</idno>
+  <idno type="VID">207829</idno>
+  <idno type="EEBO-PROQUEST">2248508930</idno>
+  
+            <idno type="STC">Wing P2239A</idno>
+            <idno type="PROQUEST">99825687</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825687e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1956:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pillory: or a dialogue betwixt Roger L'Estrange and Nat. Thompson</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Charles,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Alas, poor Nat! dear brother, how dost do?".</note>
+                  <note>A satire on the Popish Plot.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">L'Estrange, Roger, --  Sir, 1616-1704 --  Early works to 1800.</term>
+               <term type="personal_name">Thompson, Nathaniel, d. 1687 --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:207829:1"/>
+            <head>THE PILLORY: Or a DIALOGUE betwixt <hi>Roger L'Estrange</hi> and <hi>Nat. Thompson.</hi>
+            </head>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <l>ALAS, poor <hi>Nat!</hi> dear Brother, how dost do?</l>
+               <l>What, are the Judges turn'd Phanaticks too?</l>
+               <l>Th' old-fashion'd Wooden Ruff they've made thee try;</l>
+               <l>And this is all thou gett'st by Loyalty.</l>
+               <l>St. <hi>Jaques</hi> save's! if these damn'd Whiggish Laws</l>
+               <l>Entrap the very Tygers of the Cause,</l>
+               <l>How shall poor <hi>Towzer</hi> now secure his Stones,</l>
+               <l>Or gnaw his Contribution Marrow-bones?</l>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <l>Leave off your whining: Is it thus you pay</l>
+               <l>The Supererrogation of the day?</l>
+               <l>And is't for this my brazen Face defies</l>
+               <l>As many Eggs as ere I vended Lies?</l>
+               <l>Go call the Monster <hi>Heraclite,</hi> and then</l>
+               <l>Your humble, kind, admiring Clergy-men,</l>
+               <l>With your old Oaken Argument dispute,</l>
+               <l>And knock 'em down, if they'l not contribute.</l>
+               <l>Let none (on Excommunication) dodge</l>
+               <l>With their Lord God, the great Almighty <hi>Hodge.</hi>
+               </l>
+               <l>Whoever sneaks to Hell, or bravely damns</l>
+               <l>Let all their Off'rings bring to Bishop <hi>Sam's.</hi>
+               </l>
+               <l>Thus since for you h' has felt so many a Patt,</l>
+               <l>Pray raise a Fund for meritorious <hi>Nat.</hi>
+               </l>
+               <l>If Priestly Word no more can Faith obtain,</l>
+               <l>Let Cassock new-redeem'd, be pawn'd again.</l>
+               <l>Nay, last dear Guiny too shall pack away,</l>
+               <l>Reserv'd in Pouch for Tavern, Wench, and Play.</l>
+               <l>Delays are dangerous; act with speed, or I</l>
+               <l>Can tell who had a finger in the Pie.</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <l>What, meaning me Sir? All my Guards advance!</l>
+               <l>I see th' Apostate Dog is hir'd by <hi>Prance.</hi>
+               </l>
+               <l>If my own Mother should against me roar,</l>
+               <l>Her Son would be the first to call her Whore.</l>
+               <l>A <hi>Whig!</hi> a <hi>Whig!</hi> a <hi>Whig!</hi> 'twas his intent</l>
+               <l>To affront, and undermine the Government.</l>
+               <l>The Fundamental Laws he means to change,</l>
+               <l>And be a greater Rogue than Master <hi>'Strange.</hi>
+               </l>
+               <l>With such fat thumping Lies he Lards a Tale,</l>
+               <l>As even spoils my <hi>Observators</hi> Sale,</l>
+               <l>And <hi>Saturday,</hi> if that would end the strife,</l>
+               <l>Would swear, he ne're was Pillory'd in's life.</l>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <l>No common Villain such a feat can do:</l>
+               <l>For that's a Task (almighty <hi>Hodg</hi>) for you,</l>
+               <pb facs="tcp:207829:2"/>
+               <l>Who laugh at all the toys of time and place,</l>
+               <l>And damn your self at Church with a good Grace.</l>
+               <l>
+                  <hi>Smirk</hi> crys all's Gospel; yet advice I'de crave,</l>
+               <l>If he's the greater Fool, or you the Knave?</l>
+               <l>Your <hi>Ipse dixit</hi> does it: Ne're contend,</l>
+               <l>
+                  <hi>L'Estrange,</hi> the Great has said it: There's an end.</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <l>Poor creeping Rascal, cope not then with me,</l>
+               <l>So much above thy match in Roguery.</l>
+               <l>Base third-rate Sinner, who canst nought devise,</l>
+               <l>But turns a Broker to the <hi>Faction</hi>'s Lies:</l>
+               <l>Who ne're canst take it till by all 'tis found,</l>
+               <l>But catchest Slander at the third rebound.</l>
+               <l>Behold a Monstrous, Wonder-working Knight,</l>
+               <l>That hang'd himself, then 'cause it took not right</l>
+               <l>Swang'd into th' Fields, and Stabb'd himself for spight.</l>
+               <l>Live <hi>errant</hi> Knights <hi>we've heard of o're and o're;</hi>
+               </l>
+               <l>
+                  <hi>But who e're knew dead errant Knights before?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <l>
+                  <hi>And thou my Son!</hi> Nay, then my hope's in vain</l>
+               <l>If Knaves fall out, true men their own will gain.</l>
+               <l>For this (ungrateful <hi>Towzer</hi>) have I born</l>
+               <l>Whole showers of Kennel dirt, and vulgar scorn.</l>
+               <l>Was it for this I play'd the Fool, to be</l>
+               <l>A Mark for the inraged <hi>mobile.</hi>
+               </l>
+               <l>To pocket up fat Dabbs, and greasie Blows,</l>
+               <l>And spoil a serviceable Face and Nose;</l>
+               <l>Basely do Pennance in the open Air,</l>
+               <l>And thrust my gracious Snout through shriving Chair?</l>
+               <l>For this was your poor Demy-Martyr ty'd,</l>
+               <l>To sup such Cawdles as the <hi>Whigs</hi> provide,</l>
+               <l>Whilst saucy Prentices salute his Chapps</l>
+               <l>With Stones, and Carrots-<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eads, and <gap reason="illegible" resp="#murp" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>p-<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ops▪</l>
+               <l>Must my Cats-foot the firy Chesnut draw</l>
+               <l>Out of the Coals, to save your Worships Paw?</l>
+               <l>After all this, poor <hi>Nat.</hi> must be forsaken,</l>
+               <l>So you, Curmudgeons can but save your Bacon.</l>
+               <l>So an old envious Hag, when ought has crost her▪</l>
+               <l>Learns to repeat the Devil's <hi>Pater-noster.</hi>
+               </l>
+               <l>And then, if Whiggish Neighbours she'd distress,</l>
+               <l>To great <hi>Old-Nick</hi> presents her humble Address.</l>
+               <l>For dear Revenge dire bloody Bonds she gives,</l>
+               <l>To serve with Life and Fortune whilst she lives.</l>
+               <l>Hell's Majesty his black Tribunal leaves,</l>
+               <l>And with his wonted goodness her receives:</l>
+               <l>Teaches her in light Egg-shells safe to Sail,</l>
+               <l>And let's her sweetly kiss his Royal — Tail.</l>
+               <l>But when the unbelieving Witch is shent</l>
+               <l>At the Assizes (or the Parliament),</l>
+               <l>The Boe-peep Fiend (a Rogue) plays least in sight,</l>
+               <l>And coldly bids the Lady fair, Good-night.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Charles.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
